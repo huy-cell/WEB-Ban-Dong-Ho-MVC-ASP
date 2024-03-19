@@ -11,7 +11,7 @@
 - **Pagination:** PagedList.Mvc
 - **Email Service:** Send e-Mail using Google Mail (Gmail)
 - **UI Template:** AdminLTE
-- **Frontend Technologies:** HTML, CSS, JavaScript
+- **Frontend Technologies:** HTML, CSS, C#
 - **Libraries:** jQuery, Bootstrap, AJAX, JSON, XML, TinyMCE, autoNumeric, dataTables, Font Awesome, Google Fonts
 - **Security:** HTTPS and SSL
 
